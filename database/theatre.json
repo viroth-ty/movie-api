@@ -1,0 +1,32 @@
+[
+    {
+        "theatre_id": 1,
+        "theatre_name": "Aeon Sen sok",
+        "theatre_physical_address": "Touk kouk",
+        "theatre_coordinates_address": "1233, 4322"
+    },
+    {
+        "theatre_id": 2,
+        "theatre_name": "Legend Steogn mean cheay",
+        "theatre_physical_address": "Steogn mean cheay",
+        "theatre_coordinates_address": "1233, 4322"
+    },
+    {
+        "theatre_id": 3,
+        "theatre_name": "Aeon Phnom Penh",
+        "theatre_physical_address": "Phnom Penh",
+        "theatre_coordinates_address": "1233, 4322"
+    },
+    {
+        "theatre_id": 4,
+        "theatre_name": "Legend Toul Kouk",
+        "theatre_physical_address": "Touk kouk",
+        "theatre_coordinates_address": "1233, 4322"
+    },
+    {
+        "theatre_id": 5,
+        "theatre_name": "Legend Prime Cineplex",
+        "theatre_physical_address": "Touk kouk",
+        "theatre_coordinates_address": "1233, 4322"
+    }
+]

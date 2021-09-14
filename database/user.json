@@ -1,0 +1,16 @@
+[
+    {
+        "user_id": "bob01",
+        "user_name": "Viroth",
+        "phone_number": "012345678",
+        "password": "123456",
+        "profile": "https://images.squarespace-cdn.com/content/v1/5eb48d3fef49df153d320521/1618067560787-84GC43ROIAG167WVTNWV/Amrit+Toy+Face.png?format=1500w"
+    },
+    {
+        "user_id": "bob01",
+        "user_name": "Jennifer",
+        "phone_number": "098765432",
+        "password": "654321",
+        "profile": "https://cdn.dribbble.com/users/230875/screenshots/12078079/media/c08285d2e039896a565cffeb5eb44a15.jpg?compress=1&resize=400x300"
+    }
+]
