@@ -1,12 +1,14 @@
 [
     {
         "id": 1,
-        "movie_title": "Landscape with a Woman (Zena s krajolikom)",
-        "url": "https://cdn-s3.allmovie.com/movie_images/V722574/homepage.jpg",
-        "imdb": 3,
-        "tomato": 24,
-        "genre": "Drama",
-        "date": "2/12/2021"
+        "movie_title": "Shang-Chi and the Legend of the Ten Rings",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp11zD1YLaq0-peKOCYBIK85RCBfdYunVgEXka-GeRP8aXjPaJ",
+        "imdb": 7,
+        "tomato": 78,
+        "genre": "Adventure/Action",
+        "description": "Martial-arts master Shang-Chi confronts the past he thought he left behind when he's drawn into the web of the mysterious Ten Rings organization.",
+        "date": "5/09/2021",
+        "duration": "120"
     },
     {
         "id": 2,
@@ -15,51 +17,63 @@
         "imdb": 8,
         "tomato": 93,
         "genre": "Drama",
-        "date": "12/21/2020"
+        "description": "",
+        "date": "12/21/2020",
+        "duration": "120"
     },
     {
         "id": 3,
         "movie_title": "Frozen II",
         "url": "https://static.wikia.nocookie.net/soundeffects/images/4/4f/Frozen_2_poster.jpg/revision/latest?cb=20191009231117",
-        "imdb": 4,
+        "imdb": 6,
         "tomato": 96,
         "genre": "Comedy|Drama",
-        "date": "6/1/2021"
+        "description": "",
+        "date": "6/1/2021",
+        "duration": "120"
     },
     {
         "id": 4,
         "movie_title": "Free guy",
         "url": "https://amc-theatres-res.cloudinary.com/image/upload/f_auto,fl_lossy,h_465,q_auto,w_310/v1627910130/amc-cdn/production/2/movies/59700/59656/PosterDynamic/127167.jpg",
         "imdb": 9,
-        "tomato": 16,
+        "tomato": 88,
         "genre": "Action|Comedy|Horror",
-        "date": "8/23/2021"
+        "description": "",
+        "date": "8/23/2021",
+        "duration": "120"
     },
     {
         "id": 5,
         "movie_title": "Spider-man: Home coming",
         "url": "https://m.media-amazon.com/images/M/MV5BOGQ5YTM3YzctOTVmMC00OGIyLWFkZTYtMWYwOWZhMjA2MWMwXkEyXkFqcGdeQXVyMjUyMTE5MA@@._V1_.jpg",
-        "imdb": 4,
-        "tomato": 32,
+        "imdb": 7,
+        "tomato": 90,
         "genre": "Comedy",
-        "date": "10/1/2020"
+        "date": "10/1/2020",
+        "description": "",
+        "duration": "120"
     },
     {
         "id": 6,
         "movie_title": "Spider-man: Far from home",
         "url": "https://images-na.ssl-images-amazon.com/images/I/81+HImlvK4L.jpg",
         "imdb": 7,
-        "tomato": 39,
+        "tomato": 80,
         "genre": "Action|Sci-Fi|Thriller",
-        "date": "10/16/2020"
+        "date": "10/16/2020",
+        "description": "",
+        "duration": "120"
     },
     {
         "id": 7,
         "movie_title": "Venom",
         "url": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_FMjpg_UX1000_.jpg",
-        "imdb": 4,
-        "tomato": 33,
+        "imdb": 8,
+        "tomato": 76,
         "genre": "Action|Crime|Thriller",
-        "date": "1/10/2021"
+        "description": "",
+        "date": "1/10/2021",
+        "duration": "120"
     }
 ]

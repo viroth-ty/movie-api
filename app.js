@@ -11,10 +11,8 @@ app.use(express.json());
 app.get('/theatre', (req, res) => {
 
   let rawdata = fs.readFileSync('database/theatre.json');
-  let student = JSON.parse(rawdata);
-  res.statusCode = 200;
-
-  res.send(student)
+  let theatres = JSON.parse(rawdata);
+  res.json(theatres)
 })
 
 
