@@ -76,13 +76,17 @@ app.get('/register', (req, res) => {
 
 //get movie by category
 app.get('/movie/:category_id', (req, res) => {
-  console.log(req.query.category_id)
   let rawdata = fs.readFileSync('database/movies.json');
   let movies = JSON.parse(rawdata);
   res.statusCode = 200
   res.send(movies)
 })
 
+app.get("/movie/detail/:movie_id", (req, res) => {
+  let rawdata = fs.readFileSync('database/movie_detail.json');
+  let detail = JSON.parse(rawdata);
+  res.json(detail)
+})
 
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
