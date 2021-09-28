@@ -1,0 +1,34 @@
+{
+    "type_of_card": "VISA",
+    "card_number": "***453445",
+    "price": "$ 15.0",
+    "tickets": [
+        {
+            "ticket_id": "Bob001",
+            "ticket_location": "Aeon Sen sok",
+            "ticket_time": "2021-09-05 08:30:00",
+            "ticket_seat": "F9",
+            "ticket_movie_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp11zD1YLaq0-peKOCYBIK85RCBfdYunVgEXka-GeRP8aXjPaJ",
+            "ticket_title": "Shang-Chi and the Legend of the Ten Rings",
+            "ticket_duration": "120"
+        },
+        {
+            "ticket_id": "Bob001",
+            "ticket_location": "Aeon Sen sok",
+            "ticket_time": "2021-09-05 08:30:00",
+            "ticket_seat": "F10",
+            "ticket_movie_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp11zD1YLaq0-peKOCYBIK85RCBfdYunVgEXka-GeRP8aXjPaJ",
+            "ticket_title": "Shang-Chi and the Legend of the Ten Rings",
+            "ticket_duration": "120"
+        },
+        {
+            "ticket_id": "Bob001",
+            "ticket_location": "Aeon Sen sok",
+            "ticket_time": "2021-09-05 08:30:00",
+            "ticket_seat": "F11",
+            "ticket_movie_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp11zD1YLaq0-peKOCYBIK85RCBfdYunVgEXka-GeRP8aXjPaJ",
+            "ticket_title": "Shang-Chi and the Legend of the Ten Rings",
+            "ticket_duration": "120"
+        }
+    ]
+}

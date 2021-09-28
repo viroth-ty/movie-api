@@ -88,6 +88,12 @@ app.get("/movie/detail/:movie_id", (req, res) => {
   res.json(detail)
 })
 
+app.get("/ticket", (req, res) => {
+  let rawdata = fs.readFileSync('database/ticket.json');
+  let tickets = JSON.parse(rawdata);
+  res.json(tickets)
+})
+
 app.listen(port, () => {
   console.log(`Example app listening at http://localhost:${port}`)
 })
